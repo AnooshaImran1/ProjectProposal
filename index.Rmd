@@ -43,10 +43,11 @@ populations across the country. This visualization allows for quick
 identification of states with the highest absenteeism rates and
 highlights disparities within those states.
 
-![My Plot] (Final_plot.html)
+<li>
 
-[![My
-Plot](Final_plot.html)](file:///E:/RStudio/ProjectProposal/Final_plot.html)
+<a href="Final_plot.html"></a>
+
+</li>
 
 As I move towards my final project, my plan is to enhance my final
 visualisation and create a dashboard with updated data to show the trend

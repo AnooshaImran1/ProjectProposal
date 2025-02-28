@@ -3,6 +3,7 @@ title: "Final Proposal"
 author: "Anoosha Imran"
 date: "`r Sys.Date()`"
 output: html_document
+toc:'True'
 editor_options: 
   markdown: 
     wrap: 72
