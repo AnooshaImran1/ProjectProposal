@@ -48,5 +48,5 @@ highlights disparities within those states.
 As I move towards my final project, my plan is to enhance my final
 visualisation and create a dashboard with updated data to show the trend
 of absenteeism across the United States and attempt to plot it agaist
-the growing impact of Climate Chnage so see whether it has an impact or
+the growing impact of Climate Change so see whether it has an impact or
 not.
